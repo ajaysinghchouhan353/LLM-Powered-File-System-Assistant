@@ -1,3 +1,0 @@
-- John Example
-- Senior Software Engineer
-- Experienced in Python, ML, and backend systems.
